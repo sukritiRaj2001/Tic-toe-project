@@ -1,2 +1,2 @@
-# Tic-toe-project
-It is gaming project
+# Tic-Tac-Toe
+It is gaming  mini-project
